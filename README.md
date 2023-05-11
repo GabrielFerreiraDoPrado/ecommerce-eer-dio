@@ -2,6 +2,10 @@
 
 ![GitHub](https://img.shields.io/github/license/GabrielFerreiraDoPrado/ecommerce-eer-dio)
 
+# Sobre o Projeto
+
+Este projeto foi desenvolvido como parte da Formação SQL Database Specialist, desenvolvida pela [Digital Innovation One](https://www.dio.me/).
+
 # Objetivos
 
 • Refinar o modelo de banco de dados apresentado
